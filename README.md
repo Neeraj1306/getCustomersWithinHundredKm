@@ -10,6 +10,7 @@ $npm install @neeraj13/dublinHundredKmRadius
 
 Usage
 
-const customer = require("@neeraj13/dublinHundredKmRadius")
+const customer = require("@neeraj13/dublinHundredKmRadius");
+
 customer(filename)
 
