@@ -1,0 +1,12 @@
+{
+  "name": "@neeraj13/dublinHundredKmRadius",
+  "version": "1.0.0",
+  "description": "Get customers within the range of 100 km from Dublin",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neeraj",
+  "license": "ISC"
+}
